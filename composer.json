@@ -1,0 +1,31 @@
+{
+  "name": "nitsan/ns-cookiebot",
+  "type": "typo3-cms-extension",
+  "description": "Cookiebot helps make your use of cookies and online tracking GDPR and EPR compliant.",
+  "homepage": "https://extensions.typo3.org/extension/ns_cookiebot/",
+  "license": "GPL-2.0+",
+  "keywords": [
+    "TYPO3 CMS",
+    "Cookie Bot",
+    "Nitsan",
+    "Cookie",
+    "Bot",
+    "GDPR",
+    "EPR"
+  ],
+  "support": {
+    "issues": "https://github.com/nitsan-technologies/ns_cookiebot/issues"
+  },
+  "require": {
+    "typo3/cms-core": ">=6.2.0"
+  },
+  "replace": {
+      "ns_cookiebot": "self.version",
+      "nitsan/ns-cookiebot": "self.version"
+  },
+  "extra": {
+      "typo3/cms": {
+          "extension-key": "ns_cookiebot"
+      }
+  }
+}
