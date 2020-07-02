@@ -1,6 +1,6 @@
 plugin.tx_nscookiebot_nscookiebot {
     settings {
-        # cat=plugin.tx_nscookiebot//a; type=string; label=API KEY
+        # cat=plugin.tx_nscookiebot//a; type=string; label=Domain Group ID
         cookieapikey =
     }
 }
