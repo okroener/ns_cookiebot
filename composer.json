@@ -20,7 +20,7 @@
     "typo3/cms-core": ">=6.2.0"
   },
   "replace": {
-      "nitsan/ns-cookiebot": "self.version"
+      "typo3-ter/ns-cookiebot": "self.version"
   },
   "config": {
     "vendor-dir": ".Build/vendor/",
