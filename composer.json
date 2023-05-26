@@ -13,6 +13,7 @@
     "GDPR",
     "EPR"
   ],
+  "version": "2.1.0",
   "support": {
     "issues": "https://github.com/nitsan-technologies/ns_cookiebot/issues"
   },
