@@ -15,7 +15,7 @@ $EM_CONF['ns_cookiebot'] = [
     'version' => '2.0.2',
     'constraints' => [
         'depends' => [
-            'typo3' => '6.0.0-11.5.99',
+            'typo3' => '6.0.0-12.4.99',
         ],
         'conflicts' => [],
         'suggests' => [],
