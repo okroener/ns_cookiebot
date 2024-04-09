@@ -1,7 +1,7 @@
 {
   "name": "nitsan/ns-cookiebot",
   "type": "typo3-cms-extension",
-  "description": "The Cookiebot.com GDPR Compliant TYPO3 Extension aids publishers, technology vendors, and advertisers in complying with GDPR and ePrivacy Directive regulations by ensuring transparency and obtaining user consent. T3Planet has developed a TYPO3 CMS extension to seamlessly integrate Cookiebot, one of the most popular solutions for managing cookies. *** Live-Demo: https://demo.t3planet.com/t3-extensions/cookiebot/ *** Documentation & Free Support: https://t3planet.com/typo3-cookiebot-extension",
+  "description": "The Cookiebot.com GDPR Compliant TYPO3 Extension aids publishers, technology vendors, and advertisers in complying with GDPR and ePrivacy Directive regulations by ensuring transparency and obtaining user consent. T3Planet has developed a TYPO3 CMS extension to seamlessly integrate Cookiebot, one of the most popular solutions for managing cookies.",
   "homepage": "https://extensions.typo3.org/extension/ns_cookiebot/",
   "license": "GPL-2.0+",
   "keywords": [
