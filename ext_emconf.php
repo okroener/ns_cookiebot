@@ -1,18 +1,20 @@
 <?php
 
 $EM_CONF['ns_cookiebot'] = [
-    'title' => '[NITSAN] Cookiebot.com GDPR/EPR Compliant',
-    'description' => 'Quickly configure Cookiebot.com to your TYPO3 site to helps make your use of cookies and online tracking GDPR and EPR compliant. LIVE-demo: https://demo.t3terminal.com/t3t-extensions/cookiebot PRO-version: https://t3terminal.com/cookiebot-gdpr-compliant-typo3-extension-free',
+    'title' => 'Cookiebot',
+    'description' => 'The Cookiebot.com GDPR Compliant TYPO3 Extension aids publishers, technology vendors, and advertisers in complying with GDPR and ePrivacy Directive regulations by ensuring transparency and obtaining user consent. T3Planet has developed a TYPO3 CMS extension to seamlessly integrate Cookiebot, one of the most popular solutions for managing cookies.
+     
+     *** Live-Demo: https://demo.t3planet.com/t3-extensions/cookiebot/ *** Documentation & Free Support: https://t3planet.com/typo3-cookiebot-extension',
     'category' => 'plugin',
-    'author' => 'Team NITSAN',
+    'author' => 'T3: Nilesh Malankiya, T3: Himanshu Ramavat, QA: Krishna Dhapa',
     'author_email' => 'sanjay@nitsan.in',
-    'author_company' => 'NITSAN Technologies Pvt Ltd',
+    'author_company' => 'T3Planet // NITSAN',
     'state' => 'stable',
     'internal' => '',
     'uploadfolder' => '0',
     'createDirs' => '',
     'clearCacheOnLoad' => 0,
-    'version' => '2.1.0',
+    'version' => '3.0.1',
     'constraints' => [
         'depends' => [
             'typo3' => '6.0.0-12.4.99',
